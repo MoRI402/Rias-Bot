@@ -65,7 +65,7 @@ RUN apt update && apt upgrade -y && \
 RUN pip3 install --upgrade pip setuptools
 
 # Copy Python Requirements to /root/AkenoHimejimabot
-RUN git clone -b shiken https://github.com/MoRI402/Rias-Bot /root/AkenoHimejimabot
+RUN git clone -b shiken https://github.com/AnimeKaizoku/SaitamaRobot /root/AkenoHimejimabot
 WORKDIR /root/AkenoHimejimabot
 
 #Copy config file to /root/AkenoHimejimabot/AkenoHimejimabot
