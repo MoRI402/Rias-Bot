@@ -200,8 +200,8 @@ def start(update: Update, context: CallbackContext):
                     ],
                      [
                          InlineKeyboardButton(
-                             text="🦋 Code 🦋",
-                             url=f"https://github.com/MoRI402/Rias-Bot"),
+                             text="🦋 Weetaku 🦋",
+                             url=f"https://t.me/weetaku_anime"),
                          InlineKeyboardButton(
                              text="🦋 Support 🦋",
                              url=f"https://t.me/AnimaxChatZone"),
