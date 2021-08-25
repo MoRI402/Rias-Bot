@@ -71,7 +71,7 @@ And the following:
     dispatcher.bot.first_name, ""
     if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
-AKENOIMG = "https://i.pinimg.com/originals/1e/ba/8e/1eba8e36ad874030ed926c1c8f6bb7c9.jpg"
+AKENOIMG = "https://c.tenor.com/l7PZ-vCq4FsAAAAC/rias-gremory-highschool-dxd.gif"
 AKENOPINGIMG = "https://i.pinimg.com/originals/1e/ba/8e/1eba8e36ad874030ed926c1c8f6bb7c9.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
