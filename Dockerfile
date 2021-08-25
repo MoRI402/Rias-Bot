@@ -65,7 +65,7 @@ RUN apt update && apt upgrade -y && \
 RUN pip3 install --upgrade pip setuptools
 
 # Copy Python Requirements to /root/AkenoHimejimabot
-RUN git clone -b shiken https://github.com/Ryukaizen/AkenoHimejimabot /root/AkenoHimejimabot
+RUN git clone -b shiken https://github.com/Ryukaizen/AkenoHimejimabot.git /root/AkenoHimejimabot
 WORKDIR /root/AkenoHimejimabot
 
 #Copy config file to /root/AkenoHimejimabot/AkenoHimejimabot
