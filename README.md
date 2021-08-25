@@ -1,8 +1,8 @@
 
-![Akeno](https://telegra.ph/file/0b32f717cb86ee6272d35.jpg)
+![Rias-Bot](https://i.pinimg.com/originals/1e/ba/8e/1eba8e36ad874030ed926c1c8f6bb7c9.jpg)
 
 
-# Akeno Himejima Bot 
+# Rias Bot 
 
 
 
@@ -14,10 +14,11 @@
 🦋 A modular Telegram Python bot made with [Saitama](https://github.com/AnimeKaizoku/SaitamaRobot) as a base. 
 
 
-🦋 Can be found on telegram as [AkenoHimejimaChatbot](https://t.me/AkenoHimejimaChatbot).
+🦋 Inspired by [AkenoHimejimaChatbot](https://t.me/AkenoHimejimaChatbot).
 
+🦋 This bot can be found on telegram as [Rias_ChatBot](http://t.me/Rias_ChatBot).
 
-🦋 The Support group can be reached out to at [Support group](https://t.me/akenosupport)
+🦋 The Support group can be reached out to at [Support group](https://t.me/AnimaxChatZone)
 
 ## How to setup/deploy.
 
