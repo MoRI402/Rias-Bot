@@ -65,11 +65,11 @@ RUN apt update && apt upgrade -y && \
 RUN pip3 install --upgrade pip setuptools
 
 # Copy Python Requirements to /root/AkenoHimejimabot
-RUN git clone -b shiken https://github.com/Ryukaizen/AkenoHimejimabot /root/AkenoHimejimabot
-WORKDIR /root/AkenoHimejimabot
+RUN git clone -b shiken https://github.com/AnimeKaizoku/SaitamaRobot /root/Rias-Bot
+WORKDIR /root/Rias-Bot
 
 #Copy config file to /root/AkenoHimejimabot/AkenoHimejimabot
-COPY ./AkenoHimejimabot/sample_config.py ./AkenoHimejimabot/config.py* /root/AkenoHimejimabot/AkenoHimejimabot/
+COPY ./AkenoHimejimabot/sample_config.py ./AkenoHimejimabot/config.py* /root/Rias-Bot/AkenoHimejimabot/
 
 ENV PATH="/home/bot/bin:$PATH"
 
