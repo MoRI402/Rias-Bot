@@ -69,7 +69,7 @@ RUN git clone -b shiken https://github.com/AnimeKaizoku/SaitamaRobot /root/Akeno
 WORKDIR /root/AkenoHimejimabot
 
 #Copy config file to /root/AkenoHimejimabot/AkenoHimejimabot
-COPY ./Rias-Bot/sample_config.py ./Rias-Bot/config.py* /root/AkenoHimejimabot/Rias-Bot/
+COPY ./Rias-Bot/sample_config.py ./AkenoHimejimabot/config.py* /root/AkenoHimejimabot/Rias-Bot/
 
 ENV PATH="/home/bot/bin:$PATH"
 
